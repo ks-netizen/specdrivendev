@@ -1,1 +1,8 @@
-# Add project dependencies here
+fastapi
+uvicorn
+anthropic
+pydantic
+python-dotenv
+httpx
+pytest
+pytest-asyncio
